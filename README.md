@@ -8,7 +8,9 @@ This project is a React application developed using Vite as the bundler. It enco
 
 - **Framework:** React
 - **Bundler:** Vite
-- **Component Libraries:** Material UI, Tailwind CSS
+- **Component Libraries:** Material UI, Tailwind CSS, React Router
 - **Folder Structure:** Components organized in a logical order within the `src` folder
+
+## Screenshot
 ![Screenshot](./screencapture.png)
 
