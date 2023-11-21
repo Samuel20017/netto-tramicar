@@ -1,0 +1,10 @@
+/**
+ * React Test
+ * React Project with Vite
+ * 
+ * This project is a React application built using Vite as the bundler.
+ * It includes various components created using different libraries like Material UI and Tailwing CSS
+ * all components have been created in different folders in a correct order within the src folder 
+ *
+ * ![Screenshot](./screencapture.png)
+ */
