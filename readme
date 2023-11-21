@@ -1,10 +1,14 @@
-/**
- * React Test
- * React Project with Vite
- * 
- * This project is a React application built using Vite as the bundler.
- * It includes various components created using different libraries like Material UI and Tailwing CSS
- * all components have been created in different folders in a correct order within the src folder 
- *
- * ![Screenshot](./screencapture.png)
- */
+# React Test Project
+
+## Overview
+
+This project is a React application developed using Vite as the bundler. It encompasses various components crafted utilizing diverse libraries such as Material UI and Tailwind CSS. The components are organized within separate folders in a coherent structure within the `src` directory.
+
+## Features
+
+- **Framework:** React
+- **Bundler:** Vite
+- **Component Libraries:** Material UI, Tailwind CSS
+- **Folder Structure:** Components organized in a logical order within the `src` folder
+![Screenshot](./screencapture.png)
+
