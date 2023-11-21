@@ -8,6 +8,8 @@ export default {
         "blue-advantages": "#E8F1FB",
         "blue-testimonials": "#272D38",
         "blue-text-testimonials": "#67BFF9",
+        "blue-how-do-it": "#5956E9",
+        "blue-sky": "#64BEFA",
       },
     },
   },
